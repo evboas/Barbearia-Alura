@@ -113,6 +113,12 @@ form label, form legend{
     border-radius: 10px
 }
 
+.atendimento{
+    font-size: 16px;
+    margin: 10px 0;
+    width: 200px;
+}
+
 .checkbox {
     margin: 20px 0;
 }
